@@ -1,0 +1,16 @@
+export default (props) => {
+    const img = props.img ? props.img : "data:image/png;base64,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"
+    const title = props.title ? props.title : Heading;
+    const text = props.text ? props.text : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, hic.";
+    return (
+            <div className="h-full">
+                <div className="h-28">
+                    <img src={img} alt="" className="w-full h-28" />
+                </div>
+                <div className="h-1/2">
+                    <h1 className="font-bold pl-2">{title }</h1>
+                    <p className="px-2 text-justify">{text}</p>
+                </div>
+            </div>
+    )
+}

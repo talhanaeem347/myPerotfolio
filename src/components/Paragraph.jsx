@@ -1,0 +1,3 @@
+export default (props) =>
+    props.text ? <p className="text-justify p-2 shadow-lg  ">{props.text}</p> :
+        <p className="text-justify p-2 shadow-lg w-full">As a Vue, React, JavaScript, TypeScript, Tailwind CSS, Bootstrap, and Firebase developer, I have a strong understanding of front-end technologies and a passion for creating modern and responsive web applications. With experience in both Vue and React, I have the ability to build scalable and performant single-page applications. My expertise in JavaScript and TypeScript allows me to write clean and maintainable code, and my knowledge of Tailwind CSS and Bootstrap enables me to create attractive and user-friendly interfaces.</p>
