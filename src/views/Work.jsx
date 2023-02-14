@@ -3,8 +3,8 @@ export default () => {
   return (
     <section className="w-screen lg:h-screen md:h-screen h-full bg-blue-100 flex justify-center p-4 items-center lg:p-10 md:p-10">
       <div className="h-full w-full bg-red-100 rounded ">
-        <h1 className="text-3xl font-bold text-center mt-2" >Work</h1>
-        <div className="flex flex-wrap items-stretch justify-around h-full  p-4  ">
+        <h1 className="text-3xl font-bold text-center mt-2 " >Work</h1>
+        <div className="flex flex-wrap items-stretch justify-around s/6  p-4  ">
           <div className="lg:h-1/2 md:h-1/2 h-40 lg:w-2/3 md:w-2/3 sm:w-2/3 w-full p-4 shadow-md">
             <IFrame img="/images/gva.jpg" />
           </div>
