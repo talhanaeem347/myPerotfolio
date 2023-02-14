@@ -11,7 +11,7 @@ export default () => {
     <section className="h-screen w-screen overflow-auto z-20">
       <NavBar />
       <div className='fixed left-14 bg-transparent z-10 h-screen w-fit  lg:flex md:flex hidden items-center justify-center '>
-        <div className=' w-8 h-2/5 flex flex-col justify-evenly items-center'>
+        <div className=' w-8 h-3/5 flex flex-col justify-evenly items-center'>
           <a href="https://web.facebook.com/profile.php?id=100010986612642" className='bg-gray-200 p-2 px-3 rounded-full' ><i className="fa-brands fa-facebook-f fa-xl"></i></a>
           <a href="" className='bg-gray-200 p-2 rounded-full' ><i className="fa-brands fa-twitter fa-xl  "></i></a>
           <a href="" className='bg-gray-200 p-2 rounded-full' ><i className="fa-brands fa-instagram fa-xl" ></i></a>

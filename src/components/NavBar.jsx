@@ -35,7 +35,7 @@ export default () => {
                     <div className="flex justify-between items-center  w-full">
 
                         <div className="w-32 h-10 flex items-center ">
-                            <img src="/src/assets/images/Logo.png" alt="" />
+                            <img src="/images/Logo.png" alt="" />
                         </div>
                         <nav className='lg:flex md:flex sm:flex hidden'>
                             {
