@@ -1,5 +1,4 @@
 import Paragraph from "../components/Paragraph";
-
 export default (props) => {
   const img = props.img
     ? props.img
