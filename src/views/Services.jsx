@@ -44,10 +44,10 @@ const cards = [
 ];
 export default () => {
   return (
-    <section className="w-screen min-h-screen flex items-center justify-center bg-blue-300 lg:p-10 md:p-10 p-4 ">
+    <section className=" min-h-screen flex items-center justify-center bg-blue-300 lg:p-10 md:p-10 p-4 ">
       <div className="flex flex-col justify-center items-center bg-red-100">
         <h1 className="text-4xl text-center font-bold mt-2">Services</h1>
-        <div className="flex flex-wrap px-2 py-4 shadow-lg border  w-4/5 h-4/5 ">
+        <div className="flex flex-wrap px-2 py-4 shadow-lg border   h-4/5 ">
           {cards.map((card, index) => {
             return (
               <div
