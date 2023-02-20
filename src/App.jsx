@@ -24,7 +24,7 @@ export default () => {
             <i className="fa-brands fa-instagram"></i>
           </a> */}
           <a
-            href="www.linkedin.com/in/talha-naeem-767973248"
+            href="www.linkedin.com/in/talhanaeem347"
             className="bg-gray-200 px-1 rounded-full"
           >
             <i className="fa-brands fa-linkedin-in"></i>
